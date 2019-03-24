@@ -55,3 +55,4 @@
 /.env.*.local
 /public/bundles/
 ###< symfony/framework-bundle ###
+.idea/workspace.xml
